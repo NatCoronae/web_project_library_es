@@ -245,6 +245,7 @@
   align-items: center;
   flex-direction: column;
   gap: 10px;
+  z-index: 2;
 }
 
 .person_name_feynman {
